@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Powered by: Transformers.js](https://img.shields.io/badge/Powered%20by-Transformers.js-blue)](https://huggingface.co/docs/transformers.js/index)
 [![Model: briaai/RMBG-1.4](https://img.shields.io/badge/Model-briaai/RMBG--1.4-green)](https://huggingface.co/briaai/RMBG-1.4)
+![Project Views](https://h1dawood.com/github/view_counter.php?project=AI-Background-Remover&label=views&color=blue&labelColor=555&logo=eye)
 
 An advanced, free AI tool to remove and change image backgrounds with professional accuracy, running entirely in your browser. No server uploads, no privacy concerns.
 
